@@ -1,14 +1,11 @@
 <div align="center">
 
 <br />
-```
-  ██╗     ███████╗ ██████╗ ██╗██╗  ██╗ ██████╗
-  ██║     ██╔════╝██╔════╝ ██║╚██╗██╔╝██╔═══██╗
-  ██║     █████╗  ██║  ███╗██║ ╚███╔╝ ██║   ██║
-  ██║     ██╔══╝  ██║   ██║██║ ██╔██╗ ██║   ██║
-  ███████╗███████╗╚██████╔╝██║██╔╝ ██╗╚██████╔╝
-  ╚══════╝╚══════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝ ╚═════╝
-```
+
+ <p align="center">
+  <img src="" alt="Preview Image" width="700"/>
+</p>
+
 
 ### Case Intake & Hearing Readiness Module
 **Full Stack Legal Operations Platform · MERN + TypeScript**
@@ -23,10 +20,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-3.x-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br />
-
-<!-- 📸 SCREENSHOT — Upload your screenshot to GitHub Issues or Imgur and paste the URL below -->
-<!-- ![Legixo Dashboard](YOUR_SCREENSHOT_URL_HERE) -->
-
 </div>
 
 ---
@@ -42,16 +35,6 @@
 - **Control access** via Admin / Intern role switching
 
 > Built as a take-home assignment for Legixo Thinklabs — Full Stack Intern role (MERN + TypeScript).
-
----
-
-## ✦ Preview
-
-<!-- Replace the URL below once you upload your screenshots -->
-
-| Dashboard | Cases | Case Details |
-|-----------|-------|--------------|
-| ![Dashboard](YOUR_DASHBOARD_SCREENSHOT) | ![Cases](YOUR_CASES_SCREENSHOT) | ![Details](YOUR_DETAILS_SCREENSHOT) |
 
 ---
 
@@ -163,7 +146,7 @@ Create the environment file:
 ```
 ```dotenv
 PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/legixo
+MONGO_URI=mongodb://127.0.0.1:27017/application
 NODE_ENV=development
 ```
 
@@ -186,7 +169,7 @@ npm install
 npm run dev
 ```
 
-> Frontend runs at **http://localhost:3000**
+> Frontend runs at **http://localhost:5173**
 
 ---
 
