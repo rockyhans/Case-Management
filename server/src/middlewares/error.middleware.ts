@@ -17,7 +17,6 @@ const errorMiddleware = (
       .join(", ");
   }
 
-  // Mongoose cast error (invalid ObjectId)
   if (err instanceof mongoose.Error.CastError) {
     statusCode = 400;
     message = `Invalid value for field: ${err.path}`;
