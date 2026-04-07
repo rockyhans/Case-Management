@@ -3,7 +3,7 @@
 <br />
 
  <p align="center">
-  <img src="./Preview Image" alt="Preview Image" width="700"/>
+  <img src="./Preview Image.png" alt="Preview Image" width="700"/>
 </p>
 
 
@@ -292,7 +292,7 @@ This project was developed with AI assistance (Claude). Here's an honest breakdo
 ---
 
 <div align="left">
-👤 Contributors
+👤 Contributor
 <table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/164065390?v=4" width="80px;" alt="Danish Rizwan"/> <br /><sub><b>Danish Rizwan</b></sub><br /> <sub>Full-Stack Developer</sub> </td> </tr> </table>
 📬 Contact
 <br>
