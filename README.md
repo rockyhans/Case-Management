@@ -147,7 +147,6 @@ Create the environment file:
 ```dotenv
 PORT=5000
 MONGO_URI=mongodb://127.0.0.1:27017/application
-NODE_ENV=development
 ```
 
 Start the dev server:
@@ -156,7 +155,7 @@ npm run dev
 ```
 
 > Backend runs at **http://localhost:5000**
-> You should see: `✅ MongoDB Connected` and `🚀 Server running on http://localhost:5000`
+> You should see: `MongoDB Connected` and `Server running on http://localhost:5000`
 
 ---
 
@@ -175,7 +174,7 @@ npm run dev
 
 ### 4 · Open in browser
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
