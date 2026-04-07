@@ -10,7 +10,6 @@ const errorMiddleware = (
   let statusCode = err.statusCode || 500;
   let message = err.message || "Internal Server Error";
 
-  // Mongoose validation error
   if (err instanceof mongoose.Error.ValidationError) {
     statusCode = 400;
     message = Object.values(err.errors)
