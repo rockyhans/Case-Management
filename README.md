@@ -291,17 +291,6 @@ This project was developed with AI assistance (Claude). Here's an honest breakdo
 
 ---
 
-## ✦ Git Commit Convention
-```
-feat:     new feature
-fix:      bug fix
-chore:    setup, config, dependencies
-refactor: code restructure without behavior change
-docs:     README and documentation
-```
-
----
-
 <div align="left">
 👤 Contributors
 <table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/164065390?v=4" width="80px;" alt="Danish Rizwan"/> <br /><sub><b>Danish Rizwan</b></sub><br /> <sub>Full-Stack Developer</sub> </td> </tr> </table>
@@ -309,4 +298,9 @@ docs:     README and documentation
 <br>
 📧 Email: rdanishrizwan@example.com
 <br>
+</div>
+<div align="center">
+
+Built with precision for **Legixo Thinklabs** · Full Stack Intern Assignment
+
 </div>
