@@ -299,6 +299,9 @@ This project was developed with AI assistance (Claude). Here's an honest breakdo
 📧 Email: rdanishrizwan@example.com
 <br>
 </div>
+
+---
+
 <div align="center">
 
 Built with precision for **Legixo Thinklabs** · Full Stack Intern Assignment
