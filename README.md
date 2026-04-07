@@ -3,7 +3,7 @@
 <br />
 
  <p align="center">
-  <img src="" alt="Preview Image" width="700"/>
+  <img src="./Preview Image" alt="Preview Image" width="700"/>
 </p>
 
 
@@ -302,8 +302,11 @@ docs:     README and documentation
 
 ---
 
-<div align="center">
-
-Built with precision for **Legixo Thinklabs** · Full Stack Intern Assignment
-
+<div align="left">
+👤 Contributors
+<table> <tr> <td align="center"> <img src="https://avatars.githubusercontent.com/u/164065390?v=4" width="80px;" alt="Danish Rizwan"/> <br /><sub><b>Danish Rizwan</b></sub><br /> <sub>Full-Stack Developer</sub> </td> </tr> </table>
+📬 Contact
+<br>
+📧 Email: rdanishrizwan@example.com
+<br>
 </div>
