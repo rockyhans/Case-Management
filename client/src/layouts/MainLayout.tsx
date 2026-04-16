@@ -24,9 +24,17 @@ const MainLayout: React.FC<MainLayoutProps> = ({
   return (
     <div className="min-h-screen bg-navy-950 flex">
       {/* Sidebar */}
-      <aside
+      {/* <aside
         className={`fixed inset-y-0 left-0 z-40 w-64 bg-navy-900 border-r border-gold-500/10 transform transition-transform duration-300 ease-in-out
           ${sidebarOpen ? "translate-x-0" : "-translate-x-full"} lg:translate-x-0 lg:static lg:inset-auto`}
+      > */}
+      <aside
+        className={`fixed inset-y-0 left-0 z-40 w-64 
+  bg-navy-900/80 backdrop-blur-md 
+  border-r border-gold-500/10 
+  transform transition-transform duration-300 ease-in-out
+  ${sidebarOpen ? "translate-x-0" : "-translate-x-full"} 
+  lg:translate-x-0 lg:static lg:inset-auto lg:backdrop-blur-none lg:bg-navy-900`}
       >
         {/* Logo */}
         <div className="flex items-center gap-3 px-6 py-6 ">

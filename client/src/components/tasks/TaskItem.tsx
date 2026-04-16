@@ -25,7 +25,7 @@ const TaskItem: React.FC<TaskItemProps> = ({
 
   return (
     <div
-      className={`group flex items-center gap-4 p-4 rounded-xl border transition-all duration-200 animate-slide-up opacity-0 stagger-${Math.min(index + 1, 6)}
+      className={`group flex items-center gap-4 p-4 rounded-xl border transition-all duration-200 animate-slide-up stagger-${Math.min(index + 1, 6)}
         ${
           isCompleted
             ? "bg-navy-950/50 border-navy-800 opacity-70"

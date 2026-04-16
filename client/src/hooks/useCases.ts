@@ -13,7 +13,7 @@ export const useCases = (initialFilters?: CaseFilters) => {
       setLoading(true);
       setError(null);
       const res = await casesApi.getAll(filters);
-      setCases(res.data.data);
+      setCases(res.data.data.slice(0, 5));
     } catch (err: any) {
       setError(err.message);
     } finally {
